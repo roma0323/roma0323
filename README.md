@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm taro</h1>
+<h3 align="center">A MIS student from Taiwan</h3>
 
-<!--
-**roma0323/roma0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+🌱 I’m MIS student @National Central University<br>💼  I’m activly seeking for 2024 swe intern<br>📫 reach me r911223oger@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+
+[![Social Media](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ray-chen-35ab15266/)
+[![Social Media](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/taro_2355/)
+
+
+# 💻 Tech Stack:
+
+![My Skills](https://skillicons.dev/icons?i=aws,spring,vue,html,css,js,java,git,mysql,figma)
+
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+

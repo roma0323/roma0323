@@ -2,7 +2,7 @@
 <h3 align="center">A MIS student from Taiwan</h3>
 
 # 💫 About Me:
-🌱 I’m MIS student @National Central University<br>💼  I’m activly seeking for 2024 swe intern<br>📫 reach me r911223oger@gmail.com
+🌱 I’m MIS student @National Central University<br>💼  I’m activly seeking for 2024  intern<br>📫 reach me r911223oger@gmail.com
 
 
 ## 🌐 Socials:
